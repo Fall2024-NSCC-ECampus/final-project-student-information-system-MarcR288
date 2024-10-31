@@ -1,0 +1,714 @@
+Outputs
+"C:\Users\Marc_\Documents\NSCC\C++\Student Information System\cmake-build-debug\Student_Information_System.exe"
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+2
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+1
+----All Student Data----
+Student Name: Alice Brown
+Student Number: 9673
+Midterm 1 Grade: 18
+Midterm 2 Grade: 92
+Final Grade: 35
+Letter Grade has not been calculated
+--------------------
+Student Name: Emma Davis
+Student Number: 1961
+Midterm 1 Grade: 87
+Midterm 2 Grade: 66
+Final Grade: 24
+Letter Grade has not been calculated
+--------------------
+Student Name: Jane Davis
+Student Number: 7334
+Midterm 1 Grade: 38
+Midterm 2 Grade: 80
+Final Grade: 69
+Letter Grade has not been calculated
+--------------------
+Student Name: Frank Martinez
+Student Number: 9035
+Midterm 1 Grade: 97
+Midterm 2 Grade: 19
+Final Grade: 76
+Letter Grade has not been calculated
+--------------------
+Student Name: George Martinez
+Student Number: 9723
+Midterm 1 Grade: 45
+Midterm 2 Grade: 57
+Final Grade: 71
+Letter Grade has not been calculated
+--------------------
+Student Name: Frank Miller
+Student Number: 6391
+Midterm 1 Grade: 60
+Midterm 2 Grade: 64
+Final Grade: 52
+Letter Grade has not been calculated
+--------------------
+Student Name: Zoe Miller
+Student Number: 6771
+Midterm 1 Grade: 24
+Midterm 2 Grade: 51
+Final Grade: 15
+Letter Grade has not been calculated
+--------------------
+Student Name: Bob Rodriguez
+Student Number: 8547
+Midterm 1 Grade: 71
+Midterm 2 Grade: 39
+Final Grade: 33
+Letter Grade has not been calculated
+--------------------
+Student Name: Grace Rodriguez
+Student Number: 9962
+Midterm 1 Grade: 22
+Midterm 2 Grade: 49
+Final Grade: 67
+Letter Grade has not been calculated
+--------------------
+Student Name: Alice William
+Student Number: 9421
+Midterm 1 Grade: 31
+Midterm 2 Grade: 23
+Final Grade: 99
+Letter Grade has not been calculated
+--------------------
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+3
+Enter students first name
+Marc
+Enter students last name
+Remillard
+Enter student number
+9400
+Enter students midterm 1 grade
+85
+Enter students midterm 2 grade
+90
+Enter students final grade
+85
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+2
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+1
+----All Student Data----
+Student Name: Alice Brown
+Student Number: 9673
+Midterm 1 Grade: 18
+Midterm 2 Grade: 92
+Final Grade: 35
+Letter Grade has not been calculated
+--------------------
+Student Name: Emma Davis
+Student Number: 1961
+Midterm 1 Grade: 87
+Midterm 2 Grade: 66
+Final Grade: 24
+Letter Grade has not been calculated
+--------------------
+Student Name: Jane Davis
+Student Number: 7334
+Midterm 1 Grade: 38
+Midterm 2 Grade: 80
+Final Grade: 69
+Letter Grade has not been calculated
+--------------------
+Student Name: Frank Martinez
+Student Number: 9035
+Midterm 1 Grade: 97
+Midterm 2 Grade: 19
+Final Grade: 76
+Letter Grade has not been calculated
+--------------------
+Student Name: George Martinez
+Student Number: 9723
+Midterm 1 Grade: 45
+Midterm 2 Grade: 57
+Final Grade: 71
+Letter Grade has not been calculated
+--------------------
+Student Name: Frank Miller
+Student Number: 6391
+Midterm 1 Grade: 60
+Midterm 2 Grade: 64
+Final Grade: 52
+Letter Grade has not been calculated
+--------------------
+Student Name: Zoe Miller
+Student Number: 6771
+Midterm 1 Grade: 24
+Midterm 2 Grade: 51
+Final Grade: 15
+Letter Grade has not been calculated
+--------------------
+Student Name: Marc Remillard
+Student Number: 9400
+Midterm 1 Grade: 85
+Midterm 2 Grade: 90
+Final Grade: 85
+Letter Grade has not been calculated
+--------------------
+Student Name: Bob Rodriguez
+Student Number: 8547
+Midterm 1 Grade: 71
+Midterm 2 Grade: 39
+Final Grade: 33
+Letter Grade has not been calculated
+--------------------
+Student Name: Grace Rodriguez
+Student Number: 9962
+Midterm 1 Grade: 22
+Midterm 2 Grade: 49
+Final Grade: 67
+Letter Grade has not been calculated
+--------------------
+Student Name: Alice William
+Student Number: 9421
+Midterm 1 Grade: 31
+Midterm 2 Grade: 23
+Final Grade: 99
+Letter Grade has not been calculated
+--------------------
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+4
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+1
+----All Student Data----
+Student Name: Alice Brown
+Student Number: 9673
+Midterm 1 Grade: 18
+Midterm 2 Grade: 92
+Final Grade: 35
+Letter Grade: F
+--------------------
+Student Name: Emma Davis
+Student Number: 1961
+Midterm 1 Grade: 87
+Midterm 2 Grade: 66
+Final Grade: 24
+Letter Grade: F
+--------------------
+Student Name: Jane Davis
+Student Number: 7334
+Midterm 1 Grade: 38
+Midterm 2 Grade: 80
+Final Grade: 69
+Letter Grade: D
+--------------------
+Student Name: Frank Martinez
+Student Number: 9035
+Midterm 1 Grade: 97
+Midterm 2 Grade: 19
+Final Grade: 76
+Letter Grade: D
+--------------------
+Student Name: George Martinez
+Student Number: 9723
+Midterm 1 Grade: 45
+Midterm 2 Grade: 57
+Final Grade: 71
+Letter Grade: D
+--------------------
+Student Name: Frank Miller
+Student Number: 6391
+Midterm 1 Grade: 60
+Midterm 2 Grade: 64
+Final Grade: 52
+Letter Grade: F
+--------------------
+Student Name: Zoe Miller
+Student Number: 6771
+Midterm 1 Grade: 24
+Midterm 2 Grade: 51
+Final Grade: 15
+Letter Grade: F
+--------------------
+Student Name: Marc Remillard
+Student Number: 9400
+Midterm 1 Grade: 85
+Midterm 2 Grade: 90
+Final Grade: 85
+Letter Grade: B
+--------------------
+Student Name: Bob Rodriguez
+Student Number: 8547
+Midterm 1 Grade: 71
+Midterm 2 Grade: 39
+Final Grade: 33
+Letter Grade: F
+--------------------
+Student Name: Grace Rodriguez
+Student Number: 9962
+Midterm 1 Grade: 22
+Midterm 2 Grade: 49
+Final Grade: 67
+Letter Grade: F
+--------------------
+Student Name: Alice William
+Student Number: 9421
+Midterm 1 Grade: 31
+Midterm 2 Grade: 23
+Final Grade: 99
+Letter Grade: D
+--------------------
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+5
+What is the Student Number of the student you would like to upate?:9421
+ Enter new Student number
+9421
+Enter new first name:Alice
+ Enter new last name:Williams
+ Enter new midterm 1 grade:31
+ Enter new midterm 2 grade:23
+ Enter new final grade:
+99
+Student information updated successfully!
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+1
+----All Student Data----
+Student Name: Alice Brown
+Student Number: 9673
+Midterm 1 Grade: 18
+Midterm 2 Grade: 92
+Final Grade: 35
+Letter Grade: F
+--------------------
+Student Name: Emma Davis
+Student Number: 1961
+Midterm 1 Grade: 87
+Midterm 2 Grade: 66
+Final Grade: 24
+Letter Grade: F
+--------------------
+Student Name: Jane Davis
+Student Number: 7334
+Midterm 1 Grade: 38
+Midterm 2 Grade: 80
+Final Grade: 69
+Letter Grade: D
+--------------------
+Student Name: Frank Martinez
+Student Number: 9035
+Midterm 1 Grade: 97
+Midterm 2 Grade: 19
+Final Grade: 76
+Letter Grade: D
+--------------------
+Student Name: George Martinez
+Student Number: 9723
+Midterm 1 Grade: 45
+Midterm 2 Grade: 57
+Final Grade: 71
+Letter Grade: D
+--------------------
+Student Name: Frank Miller
+Student Number: 6391
+Midterm 1 Grade: 60
+Midterm 2 Grade: 64
+Final Grade: 52
+Letter Grade: F
+--------------------
+Student Name: Zoe Miller
+Student Number: 6771
+Midterm 1 Grade: 24
+Midterm 2 Grade: 51
+Final Grade: 15
+Letter Grade: F
+--------------------
+Student Name: Marc Remillard
+Student Number: 9400
+Midterm 1 Grade: 85
+Midterm 2 Grade: 90
+Final Grade: 85
+Letter Grade: B
+--------------------
+Student Name: Bob Rodriguez
+Student Number: 8547
+Midterm 1 Grade: 71
+Midterm 2 Grade: 39
+Final Grade: 33
+Letter Grade: F
+--------------------
+Student Name: Grace Rodriguez
+Student Number: 9962
+Midterm 1 Grade: 22
+Midterm 2 Grade: 49
+Final Grade: 67
+Letter Grade: F
+--------------------
+Student Name: Alice Williams
+Student Number: 9421
+Midterm 1 Grade: 31
+Midterm 2 Grade: 23
+Final Grade: 99
+Letter Grade: D
+--------------------
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+6
+Entert Student Number:9400
+ Student Name: Marc Remillard
+Student Number: 9400
+Midterm 1 Grade: 85
+Midterm 2 Grade: 90
+Final Grade: 85
+Letter Grade: B
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+7
+Enter Student Number of student to be removed:9400
+ Student with Student Number 9400 has been removed.
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+1
+----All Student Data----
+Student Name: Alice Brown
+Student Number: 9673
+Midterm 1 Grade: 18
+Midterm 2 Grade: 92
+Final Grade: 35
+Letter Grade: F
+--------------------
+Student Name: Emma Davis
+Student Number: 1961
+Midterm 1 Grade: 87
+Midterm 2 Grade: 66
+Final Grade: 24
+Letter Grade: F
+--------------------
+Student Name: Jane Davis
+Student Number: 7334
+Midterm 1 Grade: 38
+Midterm 2 Grade: 80
+Final Grade: 69
+Letter Grade: D
+--------------------
+Student Name: Frank Martinez
+Student Number: 9035
+Midterm 1 Grade: 97
+Midterm 2 Grade: 19
+Final Grade: 76
+Letter Grade: D
+--------------------
+Student Name: George Martinez
+Student Number: 9723
+Midterm 1 Grade: 45
+Midterm 2 Grade: 57
+Final Grade: 71
+Letter Grade: D
+--------------------
+Student Name: Frank Miller
+Student Number: 6391
+Midterm 1 Grade: 60
+Midterm 2 Grade: 64
+Final Grade: 52
+Letter Grade: F
+--------------------
+Student Name: Zoe Miller
+Student Number: 6771
+Midterm 1 Grade: 24
+Midterm 2 Grade: 51
+Final Grade: 15
+Letter Grade: F
+--------------------
+Student Name: Bob Rodriguez
+Student Number: 8547
+Midterm 1 Grade: 71
+Midterm 2 Grade: 39
+Final Grade: 33
+Letter Grade: F
+--------------------
+Student Name: Grace Rodriguez
+Student Number: 9962
+Midterm 1 Grade: 22
+Midterm 2 Grade: 49
+Final Grade: 67
+Letter Grade: F
+--------------------
+Student Name: Alice Williams
+Student Number: 9421
+Midterm 1 Grade: 31
+Midterm 2 Grade: 23
+Final Grade: 99
+Letter Grade: D
+--------------------
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+9
+The following grading scheme is used for calculating the letter grades:
+Midterm 1: 25
+Midterm 2: 25
+Final:     50
+Do you want to change the grading scheme? (y/n)
+y
+What would you like to set the weight of Midterm 1 to:
+10
+What would you like to set the weight of Midterm 2 to:
+10
+What would you like to set the weight of the Final to:
+80
+The following grading scheme is used for calculating the letter grades:
+Midterm 1 Weight: 10%
+Midterm 2 Weight: 10%
+Final Weight:     80%
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+4
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+1
+----All Student Data----
+Student Name: Alice Brown
+Student Number: 9673
+Midterm 1 Grade: 18
+Midterm 2 Grade: 92
+Final Grade: 35
+Letter Grade: F
+--------------------
+Student Name: Emma Davis
+Student Number: 1961
+Midterm 1 Grade: 87
+Midterm 2 Grade: 66
+Final Grade: 24
+Letter Grade: F
+--------------------
+Student Name: Jane Davis
+Student Number: 7334
+Midterm 1 Grade: 38
+Midterm 2 Grade: 80
+Final Grade: 69
+Letter Grade: D
+--------------------
+Student Name: Frank Martinez
+Student Number: 9035
+Midterm 1 Grade: 97
+Midterm 2 Grade: 19
+Final Grade: 76
+Letter Grade: C
+--------------------
+Student Name: George Martinez
+Student Number: 9723
+Midterm 1 Grade: 45
+Midterm 2 Grade: 57
+Final Grade: 71
+Letter Grade: D
+--------------------
+Student Name: Frank Miller
+Student Number: 6391
+Midterm 1 Grade: 60
+Midterm 2 Grade: 64
+Final Grade: 52
+Letter Grade: F
+--------------------
+Student Name: Zoe Miller
+Student Number: 6771
+Midterm 1 Grade: 24
+Midterm 2 Grade: 51
+Final Grade: 15
+Letter Grade: F
+--------------------
+Student Name: Bob Rodriguez
+Student Number: 8547
+Midterm 1 Grade: 71
+Midterm 2 Grade: 39
+Final Grade: 33
+Letter Grade: F
+--------------------
+Student Name: Grace Rodriguez
+Student Number: 9962
+Midterm 1 Grade: 22
+Midterm 2 Grade: 49
+Final Grade: 67
+Letter Grade: D
+--------------------
+Student Name: Alice Williams
+Student Number: 9421
+Midterm 1 Grade: 31
+Midterm 2 Grade: 23
+Final Grade: 99
+Letter Grade: B
+--------------------
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+8
+---ARE YOU SURE YOU WANT TO DELETE ALL RECORDS--- (y/n)
+n
+Records Retained
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+8
+---ARE YOU SURE YOU WANT TO DELETE ALL RECORDS--- (y/n)
+y
+Student data is empty
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+1
+----All Student Data----
+1) Print all Student data
+2) Sort the list of all students in alphabetical order of last name
+3) Add a new student
+4) Calculate the letter grade of all students
+5) Change the information of a previous student
+6) Print the data of a specific student
+7) Remove a student from the list
+8) Delete ALL student data
+9) Change grading scheme
+0) Exit
+0
+
+Process finished with exit code 0
