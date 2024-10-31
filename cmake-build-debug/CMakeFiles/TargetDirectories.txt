@@ -1,0 +1,3 @@
+C:/Users/Marc_/Documents/NSCC/C++/Student Information System/cmake-build-debug/CMakeFiles/Student_Information_System.dir
+C:/Users/Marc_/Documents/NSCC/C++/Student Information System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marc_/Documents/NSCC/C++/Student Information System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
